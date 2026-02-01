@@ -6,7 +6,7 @@ This repository contains the official implementation of the paper **"Beyond Visu
 
 ## 🌟 Introduction
 
-Estimating dish calories from images is an ill-posed problem due to scale ambiguity and hidden ingredients. **MARC** reformulates calorie estimation from a direct regression task into a **conditional residual prediction** task. By grounding inference on a retrieval-based USDA anchor, MARC adaptively selects reasoning strategies to correct visual deviations.
+**MARC** reformulates calorie estimation from a direct regression task into a **conditional residual prediction** task. By grounding inference on a retrieval-based USDA anchor, MARC adaptively selects reasoning strategies to correct visual deviations.
 
 <div align="center">
  <img src="MARC_framework.png" alt="DynaSRL Architecture" width="800"/>
@@ -109,4 +109,5 @@ If you use MARC or the CCM dataset in your research, please cite:
 }
 
 ```
+
 
