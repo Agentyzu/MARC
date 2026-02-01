@@ -1,6 +1,6 @@
 # MARC: Beyond Visual Regression for Robust Calorie Estimation
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)] (LICENSE)![Python](https://img.shields.io/badge/Python-3.10+-green)! [PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![Python](https://img.shields.io/badge/Python-3.10+-green) ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange)
 
 This repository contains the official implementation of the paper **"Beyond Visual Regression: Anchoring Multimodal Residual Correction with Domain Priors for Robust Calorie Estimation"**, submitted to **IJCAI 2025**.
 
@@ -109,3 +109,4 @@ If you use MARC or the CCM dataset in your research, please cite:
 }
 
 ```
+
