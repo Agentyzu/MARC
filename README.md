@@ -15,7 +15,7 @@ This repository contains the official implementation of the paper **"Beyond Visu
 ### Key Features
 *   **Anchored Residual Learning:** Instead of predicting absolute calories, MARC predicts the deviation ($\Delta$) from a retrieved nutritional baseline.
 *   **Contextual Prompt Routing:** A policy network selects the optimal reasoning strategy for different dish types.
-*   **Multi-Agent Posterior Aggregation (MAPA):** Mitigates MLLM hallucinations by aggregating local beliefs from an ensemble of stochastic forward passes.
+*   **Multi-Agent Posterior Aggregation:** Mitigates MLLM hallucinations by aggregating local beliefs from an ensemble of stochastic forward passes.
 *   **Reliable Quantification:** Integrates Lightweight Gated Calibration (LGC) and Split Conformal Prediction (SCP) to provide statistically valid confidence intervals.
 
 ## 📁 Project Structure
@@ -109,5 +109,6 @@ If you use MARC or the CCM dataset in your research, please cite:
 }
 
 ```
+
 
 
