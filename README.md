@@ -91,7 +91,7 @@ python run_pipeline.py
 
 *   **Code:** All code used for data collection, MARC pipeline, and evaluation is included. 
 *   **Data:** We provide the China Culinary Multimodal dataset (`CCM.json`) used in our main experiments. Additionally, data loading and preprocessing scripts (e.g., `src/data_utils.py`) are included to align raw multimodal inputs with the model requirements.
-*   **Hyperparameters:**  Key hyperparameters are documented in the python scripts and the paper appendix. 
+*   **Hyperparameters:**  Key hyperparameters are documented in the Python scripts and the paper's appendix. 
 
 ## 🖋️ Citation
 
