@@ -32,8 +32,6 @@ class MARCSettings:
 
     # File Paths
     MODEL_PATH = "model_cache/qwen/Qwen2-VL-7B-Instruct"
-    # CSV_PATH = "Daud_selected_3000_ref.csv"
-    # DB_PATH = "delta_cache.sqlite"
     DATA_PATH = "data/input/Daud_selected_3000.json"
     
     DB_PATH = "data/output/delta_cache.sqlite"
