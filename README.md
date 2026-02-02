@@ -46,7 +46,7 @@ We construct the **China Culinary Multimodal (CCM)** dataset to bridge the gap i
 │   ├── modeling_marc.py            # PyTorch definitions for LGCNet and Policy Router architecture
 │   ├── prompt_utils.py             # Strategy definitions and prompt construction logic
 │   ├── mllm_client.py              # Qwen-VL model interface
-│   ├── train_policy.py             # Stage 1: Oracle label generation and Policy Router training
+│   ├── train_policy.py             # Stage 1: Oracle actions generation and Policy Router training
 │   ├── train_lgc.py                # Stage 2: Training the LGC network
 │   └── inference.py                # Stage 3 & 4: Split Conformal Prediction calibration and evaluation
 ├── run_pipeline.py                 # Main entry point for executing Stages 1–4.
