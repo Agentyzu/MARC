@@ -67,7 +67,7 @@ The implementation is optimized for two **NVIDIA RTX PRO 6000 (96GB) GPUs** runn
 ## 🚀 Usage
 
 ### 1. Download Base Model
-Download the base LLM using our helper script:
+Download the base MLLM using our helper script:
 ```bash
 python download_model.py
 ```
