@@ -98,7 +98,7 @@ python run_pipeline.py
 If you use MARC or the CCM dataset in your research, please cite:
 
 ```bibtex
-@inproceedings{marc2025,
+@inproceedings{marc2026,
   title={Beyond Visual Regression: Anchoring Multimodal Residual Correction with Domain Priors for Robust Calorie Estimation},
   author={Anonymous},
   booktitle={Under Review},
