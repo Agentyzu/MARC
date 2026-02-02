@@ -24,7 +24,7 @@ We introduce the **China Culinary Multimodal (CCM)** dataset to bridge the gap i
 
 *   **Scale:** Contains over **32,000** distinct dishes with aligned images, recipes, and ingredient-level metadata.
 *   **Diversity:** Spans all major regional Chinese culinary traditions (e.g., Sichuan, Guangdong, Dongbei) alongside a vast array of long-tail and international styles.
-*   **Gold Standard:** Includes a High-Quality Audited Subset ($D_{aud}$) of 3,000 samples, rigorously verified by human experts for precise evaluation.
+*   **Gold Standard:** Includes a high-quality Audited Subset ($D_{aud}$) of 3,000 samples, rigorously verified by human experts for precise evaluation.
 
 ## 📁 Project Structure
 
