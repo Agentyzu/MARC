@@ -18,6 +18,14 @@ This repository contains the official implementation of the paper **"Beyond Visu
 *   **Multi-Agent Posterior Aggregation:** Mitigates MLLM hallucinations by aggregating local beliefs from an ensemble of stochastic forward passes.
 *   **Reliable Quantification:** Integrates Lightweight Gated Calibration (LGC) and Split Conformal Prediction (SCP) to provide statistically valid confidence intervals.
 
+## 🍱 The CCM Dataset
+
+We introduce the **China Culinary Multimodal (CCM)** dataset to bridge the gap in complex, open-world food analysis. Unlike existing benchmarks dominated by discrete Western foods (e.g., Nutrition5k), CCM captures the complexity of mixed ingredients and high intra-class variance.
+
+*   **Scale:** Contains over **32,000** distinct dishes with aligned images, recipes, and ingredient-level metadata.
+*   **Diversity:** Covers 8 major Chinese cuisines (e.g., Sichuan, Cantonese) with diverse cooking styles.
+*   **Gold Standard:** Includes a **High-Quality Audited Subset ($D_{aud}$)** of 3,000 samples, rigorously verified by human experts for precise evaluation.
+
 ## 📁 Project Structure
 
 ```text
