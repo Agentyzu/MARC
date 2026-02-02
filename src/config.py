@@ -35,4 +35,4 @@ class MARCSettings:
     DATA_PATH = "data/input/Daud_selected_3000.json"
     
     DB_PATH = "data/output/delta_cache.sqlite"
-    IMAGE_CACHE_DIR = "image_cache"
+    IMAGE_CACHE_DIR = "data/input/image_cache"
