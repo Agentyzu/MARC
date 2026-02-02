@@ -82,7 +82,7 @@ python run_pipeline.py
 ## 🔬 Reproducibility
 
 *   **Code:** All code used for data collection, MARC pipeline, and evaluation is included. 
-*   **CCM Dataset:** The China Culinary Multimodal (`CCM.json`) contains 32,671 dishes. 
+*   **Data:** We provide the China Culinary Multimodal dataset (`CCM.json`) used in our main experiments. Additionally, data loading and preprocessing scripts (e.g., src/data_utils.py) are included to align raw multimodal inputs with the model requirements.
 *   **Hyperparameters:**  Key hyperparameters are documented in the python scripts and the paper appendix. 
 
 ## 🖋️ Citation
