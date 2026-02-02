@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 from src.config import MARCSettings
 from src.data_utils import MARCDataProvider
 from src.mllm_client import MARCClient
