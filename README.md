@@ -20,7 +20,7 @@ This repository contains the official implementation of the paper **"Beyond Visu
 
 ## 🍱 The CCM Dataset
 
-We introduce the **China Culinary Multimodal (CCM)** dataset to bridge the gap in complex, open-world food analysis. Unlike existing benchmarks dominated by discrete Western foods (e.g., Nutrition5k), CCM captures the inherent complexity of amorphous mixed ingredients and high intra-class variance across diverse regional cooking styles.
+We construct the **China Culinary Multimodal (CCM)** dataset to bridge the gap in complex, open-world food analysis. Unlike existing benchmarks dominated by discrete Western foods (e.g., Nutrition5k), CCM captures the inherent complexity of amorphous mixed ingredients and high intra-class variance across diverse regional cooking styles.
 
 *   **Scale:** Contains over **32,000** distinct dishes with aligned images, recipes, and ingredient-level metadata.
 *   **Diversity:** Spans all major regional Chinese culinary traditions (e.g., Sichuan, Guangdong, Dongbei) alongside a vast array of long-tail and international styles.
