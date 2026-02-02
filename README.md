@@ -56,7 +56,7 @@ We introduce the **China Culinary Multimodal (CCM)** dataset to bridge the gap i
 
 ## ⚙️ Setup & Installation
 
-The implementation is optimized for two **NVIDIA RTX PRO 6000 (96GB) GPUs** running **Ubuntu 20.04** with **Python 3.10** and **PyTorch 2.1.2**, and uses **Qwen2-VL** as the backbone MLLM. 
+The implementation is optimized for two **NVIDIA RTX PRO 6000 (96GB) GPUs** running **Ubuntu 20.04** with **Python 3.10** and **PyTorch 2.1.2**, and uses **Qwen2.5-VL-7B** as the backbone MLLM. 
 
 1. **Create Environment**
     ```bash
