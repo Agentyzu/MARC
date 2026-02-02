@@ -9,7 +9,7 @@ This repository contains the official implementation of the paper **"Beyond Visu
 **MARC** reformulates calorie estimation from a direct regression task into a **conditional residual prediction** task. By grounding inference on a retrieval-based USDA anchor, MARC adaptively selects reasoning strategies to correct visual deviations.
 
 <div align="center">
- <img src="MARC_framework.png" alt="MARC Framework" width="800" height = "500"/>
+ <img src="MARC_framework.png" alt="MARC Framework" width="800" height = "450"/>
 </div>
 
 ### Key Features
