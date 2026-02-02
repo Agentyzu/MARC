@@ -24,7 +24,7 @@ This repository contains the official implementation of the paper **"Beyond Visu
 .
 ├── data/                           # Dataset directory
 │   ├── input/                      # Preprocessed datasets ready for training/testing
-│   │   ├── CCM.json                # Chinese Cuisine Multimodal dataset
+│   │   ├── CCM.json                # Chinese Cuisine Multimodal (CCM) dataset
 │   │   ├── Daud_selected_3000.json # Expert-verified Audited Subset
 │   │   └── Nutrition2.7K/          # Western cuisine dataset
 │   ├── output/                     # Model outputs and evaluation logs
