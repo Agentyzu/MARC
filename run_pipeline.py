@@ -16,6 +16,8 @@ def main():
     print("Initializing MARC components...")
     data_provider = MARCDataProvider(MARCSettings.DATA_PATH)
     
+    data_provider.prepare_all_images() 
+    
     marc_client = MARCClient(
         model_path=MARCSettings.MODEL_PATH, 
         db_path=MARCSettings.DB_PATH
