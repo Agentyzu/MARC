@@ -107,5 +107,8 @@ If you use MARC or the CCM dataset in your research, please cite:
 
 ```
 
+## 📦 Dataset Availability
+
+**CCM Dataset:** The CCM dataset is currently not publicly available due to copyright and licensing restrictions associated with data sourced from **Dianping** and **Xiachufang**. We have therefore removed the dataset from this repository and are exploring appropriate ways to support future access while respecting the relevant copyright requirements.
 
 
